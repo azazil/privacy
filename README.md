@@ -1,30 +1,30 @@
 # User Privacy Policy
 
-	This app respects and protects the privacy of all users who use the service. In order to provide you with more accurate and personalized services, this app will use and disclose your personal information in accordance with this Privacy Policy. However, this application will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, this application will not disclose or provide this information to third parties without your prior permission. This app will update this privacy policy from time to time. By agreeing to this Application Services Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy. This Privacy Policy is an integral part of this Application Service Agreement.
+This app respects and protects the privacy of all users who use the service. In order to provide you with more accurate and personalized services, this app will use and disclose your personal information in accordance with this Privacy Policy. However, this application will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, this application will not disclose or provide this information to third parties without your prior permission. This app will update this privacy policy from time to time. By agreeing to this Application Services Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy. This Privacy Policy is an integral part of this Application Service Agreement.
 
 1. Scope of application
 
-	(a) the personal registration information you provide in accordance with the requirements of this application when you register for this application account;
+(a) the personal registration information you provide in accordance with the requirements of this application when you register for this application account;
 
-	(b) The information on your browser and computer that the application automatically receives and records when you use the App Network Service or access the App Platform webpage, including but not limited to your IP address, browser type, Data such as language used, date and time of access, hardware and software feature information, and web page records you need;
+(b) The information on your browser and computer that the application automatically receives and records when you use the App Network Service or access the App Platform webpage, including but not limited to your IP address, browser type, Data such as language used, date and time of access, hardware and software feature information, and web page records you need;
 
-	(c) User personal data obtained by the application from a business partner through legal means.
+(c) User personal data obtained by the application from a business partner through legal means.
 
 You understand and agree that the following information does not apply to this Privacy Policy:
 
-	(a) the keyword information you entered when using the search service provided by the app;
+(a) the keyword information you entered when using the search service provided by the app;
 
-	(b) Relevant information collected by you in this application, including but not limited to participation activities, transaction information and evaluation details;
+(b) Relevant information collected by you in this application, including but not limited to participation activities, transaction information and evaluation details;
 
-	(c) Violation of the law or violation of this Code of Conduct and the actions that this application has taken against you.
+(c) Violation of the law or violation of this Code of Conduct and the actions that this application has taken against you.
 
 2. Information use
 
-	(a) This application does not provide, sell, rent, share or trade your personal information to any unrelated third party, unless you have obtained your permission in advance, or the third party and the application (including the application affiliate) are separate or common. To provide you with services, and after the service is over, it will be banned from accessing all of this material that it has previously been able to access.
+(a) This application does not provide, sell, rent, share or trade your personal information to any unrelated third party, unless you have obtained your permission in advance, or the third party and the application (including the application affiliate) are separate or common. To provide you with services, and after the service is over, it will be banned from accessing all of this material that it has previously been able to access.
 
-	(b) This application also does not permit any third party to collect, edit, sell or distribute your personal information by any means. Any user of this application platform who engages in the above activities, once found, the application has the right to immediately terminate the service agreement with the user.
+(b) This application also does not permit any third party to collect, edit, sell or distribute your personal information by any means. Any user of this application platform who engages in the above activities, once found, the application has the right to immediately terminate the service agreement with the user.
 
-	(c) For the purpose of serving the User, the App may use the information you use to provide you with information of interest to you, including but not limited to, sending you product and service information, or sharing information with the App Partner so that they may Send you information about its products and services (the latter requires your prior consent).
+(c) For the purpose of serving the User, the App may use the information you use to provide you with information of interest to you, including but not limited to, sending you product and service information, or sharing information with the App Partner so that they may Send you information about its products and services (the latter requires your prior consent).
 
 3. Information disclosure
 
