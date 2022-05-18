@@ -69,6 +69,3 @@ The information and materials collected by you in this application will be store
 (b) The company reserves the right to modify this policy at any time, so please check it frequently. In the event of a material change to this policy, the Company will notify you by notice on the website.
 
 The party discloses its personal information, such as contact information or postal address. Please protect your personal information and provide it to others only when necessary. If you find that your personal information is leaked, especially if the application username and password are leaked, please contact this application customer service immediately so that the application can take corresponding measures.
-————————————————
-版权声明：本文为CSDN博主「初雪云」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/qq_35437870/article/details/103161055
